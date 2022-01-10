@@ -3,6 +3,8 @@
 Contributions are welcome, and they are greatly appreciated! Every little bit
 helps, and credit will always be given.
 
+I'm going to make a small edit here.
+
 ## Types of Contributions
 
 ### Report Bugs
