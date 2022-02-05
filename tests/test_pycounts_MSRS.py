@@ -1,5 +1,5 @@
-#from pycounts_MSRS.pycounts_MSRS import count_words
-import pycounts_MSRS
+from pycounts_MSRS.pycounts_MSRS import count_words
+#import pycounts_MSRS
 from collections import Counter
 
 def test_count_words():
