@@ -18,3 +18,8 @@ codecov = "^2.1.12"
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+readme = "README.md"
+homepage = "https://github.com/nafi007/pycounts_MSRS"
+repository = "https://github.com/nafi007/pycounts_MSRS"
+documentation = 'https://pycounts_MSRS.readthedocs.io'
